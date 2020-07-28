@@ -1,22 +1,33 @@
-## ÖĞÎÄÓïÒôÊ¶±ğ
-##### 1. »·¾³
-- Python£º3.5
-- Tensorflow : 1.5.0
+## ä¸­æ–‡è¯­éŸ³è¯†åˆ«
+##### 1. ç¯å¢ƒ
+python                    3.6.10
+tensorflow-gpu            1.9.0
+numpy                     1.19.0
+keras                     2.2.0
 
 ------
 
-##### 2. ÑµÁ·Êı¾İÏÂÔØ
-- Çå»ª´óÑ§ÖĞÎÄÓïÁÏ¿â£¨thchs30£©[ÏÂÔØµØÖ·](http://www.openslr.org/18/)
+##### 2. è®­ç»ƒæ•°æ®ä¸‹è½½
+- æ¸…åå¤§å­¦ä¸­æ–‡è¯­æ–™åº“ï¼ˆthchs30ï¼‰[ä¸‹è½½åœ°å€](http://www.openslr.org/18/)
 
 ------
 
-##### 3. ÑµÁ·
-- ÅäÖÃconfÄ¿Â¼ÏÂµÄconf.iniÎÄ¼şÖĞµÄ¸÷Ïî
-- ÔÚÖÕ¶ËÔËĞĞ ```python train.py``` ¿ªÊ¼ÑµÁ·
-- ÔÚÖÕ¶ËÔËĞĞ ```python test.py``` ²âÊÔ
-- Ò²¿ÉÒÔÊ¹ÓÃPyCharm´ò¿ª
+##### 3. è®­ç»ƒ
+- é…ç½®confç›®å½•ä¸‹çš„conf.iniæ–‡ä»¶ä¸­çš„å„é¡¹
+- åœ¨ç»ˆç«¯è¿è¡Œ ```python train.py``` å¼€å§‹è®­ç»ƒ
+- åœ¨ç»ˆç«¯è¿è¡Œ ```python test.py``` æµ‹è¯•
+- ä¹Ÿå¯ä»¥ä½¿ç”¨PyCharmæ‰“å¼€
 
 ------
 
-##### 4. ²âÊÔĞ§¹û
-![test-image](https://github.com/xxbb1234021/speech_recognition/blob/master/images/1.png)
+
+##### 4. è®­ç»ƒæ•ˆæœ
+ç¬¬25æ¬¡è¿­ä»£ï¼Œé”™è¯¯ç‡ï¼š0.0032279575ï¼ŒæŸå¤±ï¼š12.641949558258057
+
+##### 5.æµ‹è¯•ç»“æœ
+è¯»å…¥è¯­éŸ³æ–‡ä»¶:  G:\\ä»£ç \\æ•°æ®é›†\\è¯­éŸ³æ•°æ®é›†\\data_thchs30\\test\D11_783.wav
+å¼€å§‹è¯†åˆ«è¯­éŸ³æ•°æ®......
+è¯­éŸ³åŸå§‹æ–‡æœ¬: tian1 kong1 yi4 xie1 yun2 mang2 zou3 yue4 liang5 xian4 jin4 yun2 wei2 shi2 yun2 he2 yan1 yang4 he2 mei2 shan1 yang4 kuai4 yao4 ran2 shao1 shi4 de5 
+è¯†åˆ«å‡ºæ¥çš„æ–‡æœ¬:  tian1 kong1 yi4 xie1 yun2 mang2 zou3 yue4 liang5 xian4 jin4 yun2 wei2 shi2 yun2 he2 yan1 yang4 he2 mei2 shan1 yang4 kuai4 yao4 ran2 shao1 shi4 de5 
+
+ 
